@@ -23,7 +23,7 @@ function getRandomGreeting() {
     "Got to go fast!",
     "Sponsered by RAID SHADOW LEGENDS!",
     "Sponsored by Honey!",
-    "Capybara's are cute -Carmello",
+    "Capybara's are yummy -Carmello",
     "Powered by 128 Gigs of RAM!",
     "Powered by 16MB of RAM!",
     "I'm Slim Shady, yes, I'm the real Shady!",
@@ -43,7 +43,7 @@ function getRandomGreeting() {
     "Woo! /g/",
     "youtube.com/watch?v=dQw4w9WgXcQ",
     "youtube.com/@bl00merr",
-    "Please stop posting furry images.",
+    "Please stop posting furry images. To Cody",
     "Is this the United Airlines costumer service center?",
     "POV that one person who's 2 braincells are fighting for second place.",
     "bottem text",
@@ -52,7 +52,7 @@ function getRandomGreeting() {
     "Your toes will be pulled tonight", 
     "i do love buying birth certificates from the black market! - Niko",
     "'If you are trash go play Fortnite you loser' - Karas",
-    "Echo is not a furry I swear",
+    "Archie is not a furry I swear",
     "i wanted free vbucks :(",
     "Avocados \ud83e\udd51 from Mexico \ud83c\uddf2\ud83c\uddfd",
     "reload for another message",
@@ -78,6 +78,7 @@ function getRandomGreeting() {
     "A LOW TAPER FADE"
     "Only True Ogs Know Slient Ball"
     "Riley if you see this we are suing you"
+    "Imagine of Yacine Wallace Got A LOW TAPER FADE"
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
