@@ -79,7 +79,6 @@ function getRandomGreeting() {
     "Only True Ogs Know Slient Ball"
     "Riley if you see this we are suing you"
     "Imagine of Yacine Wallace Got A LOW TAPER FADE"
-    "Chat Is This Real???"
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
