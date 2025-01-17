@@ -73,7 +73,7 @@ function getRandomGreeting() {
     "I spent too much time making these",
     "Subscribe to Bl00merr becauses hes cringe",
     "Subscribe to ratiburger because why not",
-    "Ayden Karim is an idiot"
+    "Ayden Karim is an Idiot and Banned"
     "Wanna know what else is massive?"
     "A LOW TAPER FADE"
     "Only True Ogs Know Slient Ball"
