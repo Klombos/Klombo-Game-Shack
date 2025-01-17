@@ -42,7 +42,7 @@ function getRandomGreeting() {
     "Shoutout to Piplup!",
     "Woo! /g/",
     "youtube.com/watch?v=dQw4w9WgXcQ",
-    "youtube.com/@cody-aviation",
+    "youtube.com/@bl00merr",
     "Please stop posting furry images.",
     "Is this the United Airlines costumer service center?",
     "POV that one person who's 2 braincells are fighting for second place.",
@@ -71,9 +71,12 @@ function getRandomGreeting() {
     "Mission failed, we will get them next time",
     "NUKE INCOMING!",
     "I spent too much time making these",
-    "Subscribe to TeamZ7537 becauses hes cringe",
-    "Subscribe to MrTutel because why not",
-    "Brandon O`Dell is an idiot"
+    "Subscribe to Bl00merr becauses hes cringe",
+    "Subscribe to DogeThe2nd44 because why not",
+    "Ayden Karim is an idiot"
+    "Bl00merr was here"
+    "GET OUT"
+    
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
