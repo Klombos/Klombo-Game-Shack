@@ -72,7 +72,7 @@ function getRandomGreeting() {
     "NUKE INCOMING!",
     "I spent too much time making these",
     "Subscribe to Bl00merr becauses hes cringe",
-    "Subscribe to DogeThe2nd44 because why not",
+    "Subscribe to ratiburger because why not",
     "Ayden Karim is an idiot"
     "Wanna know what else is massive?"
     "A LOW TAPER FADE"
