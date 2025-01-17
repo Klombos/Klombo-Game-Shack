@@ -78,7 +78,6 @@ function getRandomGreeting() {
     "A LOW TAPER FADE"
     "Only True Ogs Know Slient Ball"
     "Riley if you see this we are suing you"
-    "Imagine of Yacine Wallace Got A LOW TAPER FADE"
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
