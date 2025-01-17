@@ -8,7 +8,7 @@ function getRandomGreeting() {
     "Redbull gives you wings...",
     "Since 2023!",
     "As seen on TV!",
-    "doot doot",
+    "noot noot",
     "Cold as ice!",
     "Made in the US!",
     "Reload the page NOW!",
