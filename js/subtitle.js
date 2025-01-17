@@ -74,9 +74,6 @@ function getRandomGreeting() {
     "Subscribe to Bl00merr becauses hes cringe",
     "Subscribe to DogeThe2nd44 because why not",
     "Ayden Karim is an idiot"
-    "Bl00merr was here"
-    "GET OUT"
-    
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
