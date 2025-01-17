@@ -74,10 +74,6 @@ function getRandomGreeting() {
     "Subscribe to Bl00merr becauses hes cringe",
     "Subscribe to ratiburger because why not",
     "Ayden Karim is an Idiot and Banned"
-    "Wanna know what else is massive?"
-    "A LOW TAPER FADE"
-    "Only True Ogs Know Slient Ball"
-    "Riley if you see this we are suing you"
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
