@@ -77,7 +77,7 @@ function getRandomGreeting() {
     "Wanna know what else is massive?"
     "A LOW TAPER FADE"
     "Only True Ogs Know Slient Ball"
-    "Riley if you see this we are suing you
+    "Riley if you see this we are suing you"
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
