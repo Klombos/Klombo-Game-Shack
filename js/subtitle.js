@@ -1,7 +1,7 @@
 function getRandomGreeting() {
   var greetings = [
     "Beep boop! Are you a robot?",
-    "Did you know I have a discord server?",
+    "Did you know I have a life?",
     "How many sides does a circle have?",
     "You can read btw",
     "Made you look!",
@@ -23,7 +23,7 @@ function getRandomGreeting() {
     "Got to go fast!",
     "Sponsered by RAID SHADOW LEGENDS!",
     "Sponsored by Honey!",
-    "Piplup is cute",
+    "Capybara's are cute -Carmello",
     "Powered by 128 Gigs of RAM!",
     "Powered by 16MB of RAM!",
     "I'm Slim Shady, yes, I'm the real Shady!",
@@ -50,8 +50,8 @@ function getRandomGreeting() {
     "Why do they call it oven if you oven the cold food of out hot eat the food",
     "No fun allowed",
     "Your toes will be pulled tonight", 
-    "i do love buying birth certificates from the black market! - Piplup",
-    "'If you are trash go play Fortnite you loser' - Sun Tzu, Art of war",
+    "i do love buying birth certificates from the black market! - Niko",
+    "'If you are trash go play Fortnite you loser' - Karas",
     "Echo is not a furry I swear",
     "i wanted free vbucks :(",
     "Avocados \ud83e\udd51 from Mexico \ud83c\uddf2\ud83c\uddfd",
@@ -79,6 +79,7 @@ function getRandomGreeting() {
     "Only True Ogs Know Slient Ball"
     "Riley if you see this we are suing you
     "I DEMAND YOU TO RELOAD"
+    "I get low pay -Ayden"
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
