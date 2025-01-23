@@ -18,7 +18,7 @@ function getRandomGreeting() {
     "#Relatable",
     "Fortnite is cringe",
     "You got games on your phone?",
-    "Powered by hamsters!",
+    "Powered by Stark Enterprises!",
     "*insert cool explosion*",
     "Got to go fast!",
     "Sponsered by RAID SHADOW LEGENDS!",
