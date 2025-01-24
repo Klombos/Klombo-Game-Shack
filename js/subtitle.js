@@ -51,7 +51,7 @@ function getRandomGreeting() {
     "No fun allowed",
     "Your toes will be pulled tonight", 
     "i do love buying birth certificates from the black market! - Niko",
-    "'If you are trash go play Fortnite you loser' - Karas",
+    "fart god love smelling poop",
     "Archie is not a furry I swear",
     "i wanted free vbucks :(",
     "Avocados \ud83e\udd51 from Mexico \ud83c\uddf2\ud83c\uddfd",
