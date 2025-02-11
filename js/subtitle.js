@@ -73,7 +73,7 @@ function getRandomGreeting() {
     "I spent too much time making these",
     "Subscribe to Bl00merr becauses hes cringe",
     "Subscribe to ratiburger because why not",
-    "Ayden Karim is an Idiot and Banned"
+    "Ayden Karim is an and Banned"
   ];
   var randomIndex = Math.floor(Math.random() * greetings.length);
   return greetings[randomIndex];
